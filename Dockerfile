@@ -1,5 +1,5 @@
 # Define the names/tags of the container
-#!BuildTag: toolbox-osc:latest
+#!BuildTag: gyribeiro/toolbox-osc:latest
 
 FROM opensuse/tumbleweed:latest
 
