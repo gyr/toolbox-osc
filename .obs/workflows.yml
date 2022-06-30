@@ -1,7 +1,7 @@
 rebuild_master:
   steps:
     - rebuild_package:
-        source_project: home:gyribeiro:containers
-        source_package: toolbox-osc
+        project: home:gyribeiro:containers
+        package: toolbox-osc
   filters:
-    - event: push
+    event: push
